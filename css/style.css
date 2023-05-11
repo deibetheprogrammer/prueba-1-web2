@@ -26,6 +26,22 @@ body{
 	color: var(--subtitulos-general);
 }
 
+.btn-azul{
+	background-color: var(--color-azul);
+	color: #fff;
+	padding: 17px 30px;
+	border-radius: 10px;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 1px;
+}
+
+#welcome {
+	text-align: center;
+	padding: 30px 0 30px;
+}
+
 #coaches {
 	text-align: center;
 	padding: 30px 0 30px;
